@@ -5,5 +5,5 @@ The objective of the game is to survive as long as possible by avoiding collisio
 This project is implemented using Python and the Turtle Graphics module, making it easy to understand and suitable for beginners learning object-oriented programming and game logic.
 
 Add the required libraries into your program.
-Run the main file to start the game.
+Run the main file to start the game.😊
 
